@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.hofstra{
+  color: #00348E;
+  background-color: #F8C52E;
+}
+
+p{
+  font-style:italic;
+  font-size: 17px;
+}
+
+a{
+  text-decoration: none;
+}
+
+hr{
+  border-width:3px;
+  border-color: gray;
+  border-style: dashed;
+}
+
+aside{
+  margin-left: 30%;
+}
+
+section{
+  margin-top: -12%;
+}
+
+.farmingdale{
+  color: #016f71;
+}
+
+#farmingdale{
+  margin-top: -10%;
+  margin-left: 5%;
+}
+
+#nyc{
+  margin-top:-13%;
+  margin-left:2%;
+}
+
+.nyccot{
+  color:#0A558E;
+  background-color: #FCCC0A;
+}
